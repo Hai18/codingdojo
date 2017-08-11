@@ -1,0 +1,231 @@
+.wrapper{
+    width: 960px;
+    height: auto;
+    background-color: #6f5964;
+    padding: 20px;
+    margin-top: 0px;
+
+}
+#myimage{
+    width: 440px;
+    height: 265px;
+    border: 5px solid silver;
+    vertical-align: top;
+}
+.header{
+    width: 980px;
+    height: 120;
+    background: #f4f4f4;
+    padding: 10px;
+
+}
+h1{
+    display: inline;
+    text-align: left;
+    font-family:cursive;
+}
+h2{
+    display: inline;
+    text-align: right;
+    font-family: sans-serif;
+    margin-left: 370px;
+}
+.about{
+    width: 440px;
+    height:270;
+    background-color: #ece4ec;
+    display: inline-block;
+    vertical-align: top;
+    vertical-align: bottom;
+    /*vertical-align: bottom;*/
+    /*padding: 15px;*/
+    margin-left: 30px;
+    border: 1px solid silver;
+    padding-bottom: 10px;
+}
+h3 {
+    width:440;
+    height: 30px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align: top;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+.about p {
+    margin: 10px;
+}
+a{
+    color: black;
+    padding-left: 10px;
+
+}
+#lamode{
+    width: 285px;
+    height:auto;
+    background-color: #e8dfe7;
+    display: inline-block;
+    margin: 10px;
+    margin-top: 20px;
+    vertical-align: top;
+    margin-left: 3px;
+    /*vertical-align: bottom;*/
+}
+#lamode>h4{
+    width:240;
+    height: 30px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align:middle;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+#lamode>h5{
+    width:240;
+    height: 20px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align: top;
+    vertical-align: bottom;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+#lamode>p{
+    margin: 15px;
+}
+.iconimg{
+    width: 36px;
+    height: 40px;
+    padding:6px;
+    margin-top: -5px;
+}
+.projectimage{
+    width: 285px;
+    height: 190px;
+    vertical-align: top;
+    margin-top: -22px;
+}
+#family{
+    width: 290px;
+    height:auto;
+    background-color: #e8dfe7;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left:15px;
+    vertical-align: top;
+    /*vertical-align: bottom;*/
+
+}
+#family>h4{
+    width:240;
+    height: 30px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align: top;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+#family>h5{
+    width:240;
+    height: 20px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align: top;
+    vertical-align: bottom;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+#family>p{
+    margin: 15px;
+}
+#fiveeleven{
+    width: 290px;
+    height: auto;
+    background-color: #e8dfe7;
+    display: inline-block;
+    margin-top:20px;
+    margin-left: 20px;
+
+    vertical-align: top;
+    /*vertical-align: bottom;*/
+    padding-bottom: 10;
+}
+#fiveeleven>h4{
+    width:240;
+    height: 30px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align: top;
+    vertical-align: bottom;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+#fiveeleven>h5{
+    width:240;
+    height: 20px;
+    background:linear-gradient(#adacb1,#878693,#bcbcbf);
+    display:block;
+    vertical-align: top;
+    vertical-align: bottom;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
+#fiveeleven>p{
+    margin: 15px;
+}
+ul {
+    display: inline;
+    align-items: center;
+    margin-top: -10px;
+    margin-left: 280px;
+}
+.smmimg{
+    width: 18px;
+    height: 20px;
+    display:inline;
+   list-style-type: none;
+   text-align: center;
+   margin-top: -19px;
+   position:relative;
+
+}
+li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 0px;
+    text-align: center;
+    float:center;
+    position:relative;
+
+
+}
+.footer{
+    width: 1000px;
+    height: 70px;
+    background-color: #f4f4f4;
+    margin-top: -20px;
+
+
+}
+.footer >h4{
+    text-align: center;
+}
+.projectbutton{
+    height: 30px;
+    border-radius: 8px;
+    margin-right:50px;
+    margin: 20px;
+    text-align:center;
+    text-decoration: none;
+    color: white;
+    background-color: #407d61;
+    font-weight: bold;
+    display:block;
+}

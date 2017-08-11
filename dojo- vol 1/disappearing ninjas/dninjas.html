@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <title>Document</title>
+    </head>
+        <script>
+            $(document).ready(function(){
+
+                $('.python').click(function(){
+                    $(this).hide();
+                })
+
+                $("button").click(function(){
+
+                 $('.python').show();
+             })
+         })
+        </script>
+        <style>
+            .python {
+                display: inline-block;
+                width: 19%;
+                height: 200px;
+                border:10px solid;
+                color: blue;
+            }
+            button{
+                display: block;
+                color: blue;
+                background: yellow;
+                margin-top:100px;
+            }
+        </style>
+
+    <body>
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <img class="python" src="python.png">
+        <button>Restore</button>
+    </body>
+</html>

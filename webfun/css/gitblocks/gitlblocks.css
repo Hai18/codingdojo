@@ -1,0 +1,141 @@
+#wrapper {
+    width:960px;
+    height:auto;
+    background:#dddfd3;
+    padding:8px;
+
+}
+#header img{
+    width: 30px;
+    height: 25px;
+    display: inline-block;
+}
+#header {
+    width: 920px;
+    height: 40px;
+    background-color: #39b0ac;
+    padding: 10px;
+    margin-left: 30;
+
+}
+#header h1 {
+    display: inline-block;
+    font-size: 18px;
+    font-family:monospace;
+    margin-right: 80px;
+    margin-bottom: 5px;
+
+}
+.toplink {
+    color: white;
+    font-family:cursive;
+    margin-left: 20px;
+    margin-top: -20px;
+
+
+}
+#section {
+    width: 930px;
+    height:550px;
+    padding: 10px;
+    padding-right:0;
+    margin-top:10px;
+    margin-bottom: 8px;
+    background-color: #fbe691;
+}
+#aside{
+    height: 530px;
+    width: 200px;
+    background-color: #154044;
+    color: white;
+    font-family:cursive;
+    font-size: 14px;
+    padding: 10px;
+    display: inline-block;
+}
+.tripletop {
+    display: inline-block;
+    height: 150px;
+    width: 185px;
+    font-family:cursive;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #154044;
+    color: white;
+    vertical-align: top;
+    margin-left: 10px;
+
+}
+#leftsmallbox{
+    display: inline-block;
+    height: 150px;
+    width: 145px;
+    font-family:cursive;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #154044;
+    color: white;
+    vertical-align: top;
+    margin-left: 40px;
+}
+#leftboxcontent {
+    display: inline-block;
+    height: 150px;
+    width: 282px;
+    font-family:cursive;
+    font-size: 14px;
+    padding: 6px;
+    background-color: #154044;
+    color: white;
+    vertical-align:top;
+    margin-left: 190px;
+    margin-top: -250px;
+    margin-left: 264px;
+    margin-top: -350px;
+}
+
+#rightboxcontent
+ {
+    display: inline-block;
+    height: 150px;
+    width: 282px;
+    font-family:cursive;
+    font-size: 14px;
+    padding: 6px;
+    background-color: #154044;
+    color: white;
+    vertical-align:top;
+    margin-left: 20px;
+    margin-top: -350px;
+}
+#lowerlong
+{
+    display: inline-block;
+    height: 150px;
+    width: 600px;
+    font-family:cursive;
+    font-size: 14px;
+    padding: 6px;
+    background-color: #154044;
+    color: white;
+    vertical-align:top;
+    margin-left: 264px;
+    margin-top: -180px;
+
+}
+#footer
+{
+    width: 920px;
+    height: 40px;
+    background-color: #39b0ac;
+    padding: 10px;
+    margin-left: 30;
+}
+#footer p
+ {
+    margin-left: 280px;
+    font-family: cursive;
+    font-size: 14px;
+    font-weight: bold;
+
+}

@@ -1,0 +1,7 @@
+cd desktop
+md test
+copy NUL index.html 
+copy NUL style.css
+del style
+copy index.html index_2.html
+move test/index_2.html destination/index_.html
